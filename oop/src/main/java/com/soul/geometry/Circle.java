@@ -1,4 +1,4 @@
-package com.soul;
+package com.soul.geometry;
 
 public class Circle {
     double radius;

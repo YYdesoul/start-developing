@@ -10,8 +10,6 @@
 - ***Fortgeschrittene Programmierung mit Java
   - 主要内容：Java高级特性（并发）、函数式编程(Java 8新特性和Scala)
   - 推荐书籍：Java in Action、Scala一本书
-- Informationssysteme und Datenanalyse
-    - 主要内容：关系型数据库、关系代数、sql
 
 ## 2. 2022/23WS
 - *****Einführung in die Programmierung mit Java
@@ -32,3 +30,7 @@
 
 2. 什么是static
 3. 基础变量vs引用变量
+- 引用变量
+  - 在使用引用变量时，"="相当于"->"
+- 基础变量
+  - 基础变量修改一个值并不会影响另一个变量的值
