@@ -6,19 +6,17 @@
 
 # II. 推荐TU课程
 
-## 1. 2022SS
-- ***Fortgeschrittene Programmierung mit Java
-  - 主要内容：Java高级特性（并发）、函数式编程(Java 8新特性和Scala)
-  - 推荐书籍：Java in Action、Scala一本书
-
-## 2. 2022/23WS
+## 1. 2022/23WS
 - *****Einführung in die Programmierung mit Java
   - 主要内容：Java基础
 - Softwaretechnik und Programmierparadigmen
   - 主要内容：软件开发(开发流程、UML图、做一个大项目)、函数式编程(Haskell)
   - 推荐书籍：Haskell
 
-## 3. 2023SS
+## 2. 2023SS
+- ***Fortgeschrittene Programmierung mit Java
+  - 主要内容：Java高级特性（并发）、函数式编程(Java 8新特性和Scala)
+  - 推荐书籍：Java in Action、Scala一本书
 - Anwendungssysteme
     - 主要内容：Web开发（开发框架、网络、前端后端、云服务、DevOps)
 

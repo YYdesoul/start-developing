@@ -44,6 +44,8 @@ public class Student {
     public void setScore(Score score){
         this.score = score;
     }
+
+
 }
 
 
