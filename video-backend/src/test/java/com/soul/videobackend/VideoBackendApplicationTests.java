@@ -26,6 +26,8 @@ class VideoBackendApplicationTests {
             System.out.println(video);
         }
 
-        System.out.println(videoRepository.findById(1));
+        System.out.println(videoRepository.findById(2));
+
+        System.out.println(videoRepository.findByName("titanic"));
     }
 }
