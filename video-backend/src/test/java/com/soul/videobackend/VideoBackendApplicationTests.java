@@ -25,5 +25,7 @@ class VideoBackendApplicationTests {
         for (Video video : videoList) {
             System.out.println(video);
         }
+
+        System.out.println(videoRepository.findById(1));
     }
 }
