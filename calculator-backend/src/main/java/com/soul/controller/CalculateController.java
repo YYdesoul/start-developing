@@ -16,7 +16,7 @@ public class CalculateController {
 
     // 注解开发
     @RequestMapping(method = RequestMethod.GET, value = "add")
-    public int abc(int num1, int num2) {
+    public int add(int num1, int num2) {
         int result =  calculateService.add(num1, num2);
         return result;
     }
