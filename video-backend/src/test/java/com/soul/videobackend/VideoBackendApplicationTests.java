@@ -21,7 +21,7 @@ class VideoBackendApplicationTests {
 
     @Test
     void testVideoTable() {
-        List<Video> videoList = videoRepository.findAllVideos();
+        List<Video> videoList = videoRepository.findAll();
         for (Video video : videoList) {
             System.out.println(video);
         }
@@ -29,5 +29,13 @@ class VideoBackendApplicationTests {
         System.out.println(videoRepository.findById(2));
 
         System.out.println(videoRepository.findByName("titanic"));
+
+        System.out.println("hello world");
+    }
+
+    @Test
+    void testToString() {
+        Video video = videoRepository.findAll().get(0);
+        System.out.println(video);
     }
 }
