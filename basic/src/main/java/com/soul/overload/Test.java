@@ -4,6 +4,7 @@ public class Test {
     public static void main(String[] args) {
         String s = "hello world";
         int count = 2;
+        // 注释
         saySomething(count);
         saySomething();
     }
